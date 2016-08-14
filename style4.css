@@ -1,0 +1,19 @@
+.container {
+	overflow: hidden;
+}
+
+.first {
+	overflow: hidden;
+}
+
+.second, .third {
+	width: 200px;
+}
+
+.second {
+	float: right;
+}
+
+.third {
+	float: left;
+}

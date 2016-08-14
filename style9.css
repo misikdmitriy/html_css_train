@@ -1,0 +1,9 @@
+.first {
+    float: right;
+    width: 20%;
+    overflow: hidden;
+}
+
+.small-container {
+    overflow: hidden;
+}

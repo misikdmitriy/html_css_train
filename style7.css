@@ -1,0 +1,17 @@
+.first {
+    float: left;
+    width: 800px;
+}
+
+.second, .third {
+    overflow: hidden;
+	width: 40%;
+}
+
+.second {
+    float: left;
+}
+
+.third {
+    float: right;
+}

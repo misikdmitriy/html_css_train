@@ -1,0 +1,37 @@
+header {
+	text-align: center;
+	color: #111;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 32px;
+	margin-bottom: 72px;
+}
+
+footer {
+	text-align: center;
+	color: #111;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: 100;
+	line-height: 32px;
+	margin: 20px 20px;
+	padding-top: 5px;
+	border-top: 1px solid #DDD;
+}
+
+.container {
+	overflow: hidden;
+}
+
+.first {
+	background: #30C5FD;
+}
+
+.second {
+	background: #BBDA03;
+}
+
+.third {
+	background: #8FAACC;
+}

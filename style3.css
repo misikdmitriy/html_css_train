@@ -1,0 +1,8 @@
+.first {
+	overflow: hidden;
+}
+
+.second, .third {
+	float: right;
+	width: 200px;
+}

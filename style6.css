@@ -1,0 +1,15 @@
+.second, .third {
+	float: right;
+}
+
+.first {
+	overflow: hidden;
+}
+
+.second {
+	width: 200px;
+}
+
+.third {
+	width: 20%;
+}
